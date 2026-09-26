@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.addasassi.twa",
-    "sha256_cert_fingerprints": ["7A:60:94:D0:6D:45:42:99:63:BC:5E:8E:81:B6:EB:F2:27:45:DA:D9:BD:2B:AC:1A:60:66:92:58:01:24:9A:30"]
+    "sha256_cert_fingerprints": ["6E:68:38:D5:69:B2:29:C4:6B:B5:53:27:8F:F9:E1:AD:05:D7:22:32:05:61:50:37:AB:8C:B6:2B:52:66:EB:86"]
   }
 }]
